@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sagar1205b
-- 👀 I’m interested in ...learning webDevelopment
-- 🌱 I’m currently learning ...BE-CSE;
+- 👀 I’m interested in java spring boot 
+- 🌱 BE-CSE'24;
 
 - 📫 How to reach me ... gmail: sbadammanavar@gmail.com   
 -    Instagram: sagar_badammanavar
