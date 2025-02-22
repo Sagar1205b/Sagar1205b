@@ -3,7 +3,7 @@
 - 🌱 BE-CSE'24;
 
 - 📫 How to reach me ... gmail: sbadammanavar@gmail.com   
--    Instagram: sagar_badammanavar
+
   
 <!---
 Sagar1205b/Sagar1205b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
